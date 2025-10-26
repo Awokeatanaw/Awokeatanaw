@@ -62,7 +62,7 @@ I love learning new technologies, solving problems, and creating digital solutio
 ---
 
 ## 🎓 Education
-🎓 **Bachelor’s Degree in Software Engineering**  
+🎓 **Software Engineering**  
 📍 *Wollo University*
 
 ---
