@@ -68,6 +68,7 @@ I love learning new technologies, solving problems, and creating digital solutio
 🧑‍💼 Web-based admin panel for monitoring and managing the job portal platform.  
 📈 Provides analytics, user/job management, and real-time platform insights.  
 🔹 *Tech Stack:* React (Vite), TailwindCSS, Supabase, Recharts, Framer Motion, Lucide Icons.  
+
 ---
 
 ## 🎓 Education
