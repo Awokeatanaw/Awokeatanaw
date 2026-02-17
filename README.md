@@ -60,13 +60,11 @@ I love learning new technologies, solving problems, and creating digital solutio
 🔹 *Tech Stack:* React, Node.js, Express, MongoDB, TailwindCSS.
 
 ### 💼 Job Portal System
-
 🔎 Full-stack job marketplace connecting employers and job seekers.
 📄 Employers can post jobs and manage applications, while job seekers browse, save, and apply easily.
 🔹 *Tech Stack: React (Vite), TailwindCSS, Supabase (Auth, Database, Storage), Framer Motion, Lucide Icons.
 
 ### 📊 Job Portal Admin Dashboard
-
 🧑‍💼 Web-based admin panel for monitoring and managing the job portal platform.
 📈 Provides analytics, user/job management, and real-time platform insights.
 🔹 *Tech Stack: React (Vite), TailwindCSS, Supabase, Recharts, Framer Motion, Lucide Icons.
