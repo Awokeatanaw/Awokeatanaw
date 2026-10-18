@@ -69,6 +69,10 @@ I love learning new technologies, solving problems, and creating digital solutio
 📈 Provides analytics, user/job management, and real-time platform insights.  
 🔹 *Tech Stack:* React (Vite), TailwindCSS, Supabase, Recharts, Framer Motion, Lucide Icons.  
 
+### 🎓 E-Learning
+📚 An online learning platform where students can enroll in courses, watch video lectures, take quizzes, track progress, make payments through Chapa, and earn PDF certificates. Educators can manage courses, while administrators oversee users and platform activities.
+🔹 *Tech Stack:* React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Clerk, Chapa.
+
 ---
 
 ## 🎓 Education
